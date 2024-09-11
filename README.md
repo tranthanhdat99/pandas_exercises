@@ -1,3 +1,3 @@
 # pandas_exercises
 
-Adding codes to make the output matches the solution.
+Adding codes at exercise.ipynb to make the output matches the results at solutions.ipynb
